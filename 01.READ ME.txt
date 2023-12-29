@@ -1,0 +1,9 @@
+Throw this file to C:\xampp\htdocs
+Use Xampp Control Panel and enable Apache + MySQL.
+
+
+
+Username: admin@gmail.com
+Password: admin
+
+You can make new users after login as admin, or at the localhost.
